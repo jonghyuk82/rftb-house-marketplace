@@ -72,3 +72,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Firebase Setup guide
 
 https://gist.github.com/bradtraversy/caab8ebd8ff4b6e947632887e0183761
+
+# leaflet for map
+
+- npm i leaflet react-leaflet
+- https://leafletjs.com/
+- https://react-leaflet.js.org/
+
+# Swiper (slide images)
+- https://swiperjs.com/react
